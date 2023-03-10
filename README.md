@@ -17,8 +17,8 @@ subscribe to the insurance.
 Data
 The historical sales data is available as a compressed file here.
 
-Data
-Features:
+Data Features:
+
 ● age (numeric)
 ● job : type of job
 ● marital : marital status
